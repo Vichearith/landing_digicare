@@ -1,1 +1,1 @@
-# landing_digicare
+# Semaine 3 - Example landing page
